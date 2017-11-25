@@ -98,7 +98,6 @@
 
 # 7. Deep Learning
 * [Neural Networks, PRML 5.1-5.3](http://s2/~wdong/books/prml.pdf)
-- [Deep Learning Syllabus](syllabus/deep_learning_syllabus)
 
 # 8. Database and Big Data
 ## SQL
